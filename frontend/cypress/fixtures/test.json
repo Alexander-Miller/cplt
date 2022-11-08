@@ -1,0 +1,4 @@
+{
+  "searchInput": ["mac", "ms"],
+  "expectedText": ["COSMAC ELF", "Amstrad CPC"]
+}
